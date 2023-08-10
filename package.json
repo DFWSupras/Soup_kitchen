@@ -1,0 +1,15 @@
+{
+
+  "name": "soup-kitchen-bot",
+
+  "version": "1.0.0",
+
+  "description": "A Discord bot that helps with Supra ownership.",
+
+  "main": "bot.js",
+
+  "author": "DFW Supras",
+
+  "dependencies": {}
+
+  }
