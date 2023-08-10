@@ -55,21 +55,19 @@ if (message.substring(0, 1) == '!') {
 
         // !ping
 
-        case 'ping':
+        case 'tuners':
 
             bot.sendMessage({
 
                 to: channelID,
 
-                message: 'Pong!'
+                message: 'Here are the tuners: \n' + 'some shit here'
 
             });
 
         break;
 
         // Just add any case commands if you want to..
-
-     }
-
- }
+      }
+      }
 });
